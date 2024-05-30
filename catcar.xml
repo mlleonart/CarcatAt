@@ -60,12 +60,12 @@
   </marca>
   <marca nombre="Ford">
     <modelo nombre="Mustang">
-      <generacion nombre="Sixth Generation">
-        <años>2015 - Presente</años>
-        <descripcion>El Mustang de sexta generación es una versión completamente nueva para 2015 que presenta un estilo más moderno y tecnología avanzada.</descripcion>
-        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupConvertible">Coupé / Convertible</detalleChasis>
-        <detalleMotor tipo="motor" potencia="310 hp">2.3 EcoBoost</detalleMotor>
-        <detalleMotor tipo="motor" potencia="435 hp">5.0 V8</detalleMotor>
+      <generacion nombre="not yet">
+        <años>not yet</años>
+        <descripcion>not yet.</descripcion>
+        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupConvertible">not yet</detalleChasis>
+        <detalleMotor tipo="motor" potencia="not yet">not yet</detalleMotor>
+        <detalleMotor tipo="motor" potencia="not yet">not yet</detalleMotor>
       </generacion>
     </modelo>
   </marca>
