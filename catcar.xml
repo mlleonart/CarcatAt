@@ -2,27 +2,30 @@
   <marca nombre="Pontiac">
     <modelo nombre="GTO">
       <generacion nombre="3rd Generation">
-        <detalle tipo="años">2004 - 2006</detalle>
-        <detalle tipo="descripcion">Este modelo estaba basado en el Monaro</detalle>
-        <detalles>
-          <detalle tipo="chasis" url="http://www.ejemplo.com">Coupé</detalle>
-          <detalle tipo="motor">5.7 V8, 354 hp</detalle>
-          <detalle tipo="potencia">354 hp</detalle>
-        </detalles>
+        <años>2004 - 2006</años>
+        <descripcion>Este modelo estaba basado en el Monaro</descripcion>
+        <detalleChasis tipo="chasis">Coupe</detalleChasis>
+        <detalleChasis tipo="foto">www.ejemplo.com/fotoCoupe</detalleChasis>
+        <detalleChasis tipo="chasis">Cabriolet</detalleChasis>
+        <detalleChasis tipo="foto">www.ejemplo.com/fotoCabrio</detalleChasis>
+        <detalleMotor tipo="motor">5.7 V8</detalleMotor>
+        <detalleMotor tipo="potencia">354 hp</detalleMotor>
+        <detalleMotor tipo="motor">6.0 V8</detalleMotor>
+        <detalleMotor tipo="potencia">400 hp</detalleMotor>
       </generacion>
     </modelo>
   </marca>
   <marca nombre="Ford">
     <modelo nombre="Mustang">
       <generacion nombre="Sixth Generation">
-        <detalle tipo="años">2015 - Presente</detalle>
-        <detalle tipo="descripcion">El Mustang de sexta generación es una versión completamente nueva para 2015 que presenta un estilo más moderno y tecnología avanzada.</detalle>
-        <detalles>
-          <detalle tipo="chasis" url="http://www.ejemplo.com">Coupé / Convertible</detalle>
-          <detalle tipo="motor">2.3 EcoBoost, 310 hp</detalle>
-          <detalle tipo="motor">5.0 V8, 435 hp</detalle>
-          <detalle tipo="potencia">310 hp (EcoBoost), 435 hp (V8)</detalle>
-        </detalles>
+        <años>2015 - Presente</años>
+        <descripcion>El Mustang de sexta generación es una versión completamente nueva para 2015 que presenta un estilo más moderno y tecnología avanzada.</descripcion>
+        <detalleChasis tipo="chasis">Coupé / Convertible</detalleChasis>
+        <detalleChasis tipo="foto">www.ejemplo.com/fotoCoupConvertible</detalleChasis>
+        <detalleMotor tipo="motor">2.3 EcoBoost</detalleMotor>
+        <detalleMotor tipo="potencia">310 hp</detalleMotor>
+        <detalleMotor tipo="motor">5.0 V8</detalleMotor>
+        <detalleMotor tipo="potencia">435 hp</detalleMotor>
       </generacion>
     </modelo>
   </marca>
