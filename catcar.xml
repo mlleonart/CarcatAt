@@ -1,13 +1,25 @@
 <catalogo>
   <marca nombre="Pontiac">
     <modelo nombre="GTO">
-      <generacion nombre="3rd Generation">
-        <años>2004 - 2006</años>
-        <descripcion>Este modelo estaba basado en el Monaro</descripcion>
-        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupe">Coupe</detalleChasis>
-        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCabrio">Cabriolet</detalleChasis>
-        <detalleMotor tipo="motor" potencia="354 hp">5.7 V8</detalleMotor>
-        <detalleMotor tipo="motor" potencia="400 hp">6.0 V8</detalleMotor>
+	  <generacion nombre="Primera Generacion">
+        <años>1964-1967</años>
+        <descripcion>Carroceria basada en el Pontiac Tempest</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/64_Pontiac_GTO_%289121534394%29.jpg">Coupe 1964</detalleChasis>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/1964_Pontiac_GTO_%289130478010%29.jpg">Cabriolet 1964</detalleChasis>
+        <detalleMotor tipo="motor" potencia="325 HP">6.4 V8 (1964)</detalleMotor>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pontiac_GTO_1966.jpg/800px-Pontiac_GTO_1966.jpg?20070616063532">Coupe 1966</detalleChasis>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/00_2510_Pontiac_GTO.jpg/800px-00_2510_Pontiac_GTO.jpg?20220204183852">Cabriolet 1966</detalleChasis>
+		<detalleMotor tipo="motor" potencia="360 hp">6.4 V8 (1966)</detalleMotor>
+      </generacion>
+	  <generacion nombre="Segunda Generacion">
+        <años>1968-1972</años>
+        <descripcion>Carroceria GTO con nuevo diseño de carrocería más aerodinámico, Introducción del paquete opcional .The Judge. en 1969</descripcion>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pontiac_GTO_1968_RSideFront_TBS_09Feb2014_%2814606417213%29.jpg/800px-Pontiac_GTO_1968_RSideFront_TBS_09Feb2014_%2814606417213%29.jpg?20140927024708">Pontiac GTO 1968</detalleChasis>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/d/db/1968_Pontiac_GTO_%2828170575472%29.jpg">Pontiac GTO 1968 cabriolet, Faros escondidos</detalleChasis>
+        <detalleMotor tipo="motor" potencia="350 HP">3.7 V8 (1968)</detalleMotor>
+		<detalleMotor tipo="motor" potencia="360 HP">4.5 V8 (1968)</detalleMotor>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/e/ed/1969_Pontiac_GTO_Judge_Hardtop.jpg">Pontiac GTO 1969 The Judge </detalleChasis>
+        <detalleMotor tipo="motor" potencia="366 hp">6.6 V8 (The Judge)</detalleMotor>
       </generacion>
       <generacion nombre="4th Generation">
         <años>2008 - 2009</años>
