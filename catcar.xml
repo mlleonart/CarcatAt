@@ -9,6 +9,12 @@
         <detalleMotor tipo="motor" potencia="354 hp">5.7 V8</detalleMotor>
         <detalleMotor tipo="motor" potencia="400 hp">6.0 V8</detalleMotor>
       </generacion>
+      <generacion nombre="4th Generation">
+        <años>2008 - 2009</años>
+        <descripcion>Otra descripción para la cuarta generación</descripcion>
+        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupe">Coupe</detalleChasis>
+        <detalleMotor tipo="motor" potencia="450 hp">6.2 V8</detalleMotor>
+      </generacion>
     </modelo>
   </marca>
   <marca nombre="Ford">
