@@ -2,31 +2,60 @@
   <marca nombre="Pontiac">
     <modelo nombre="GTO">
 	  <generacion nombre="Primera Generacion">
-        <años>1964-1967</años>
+        <años>1964-1965 Primera Generacion</años>
         <descripcion>Carroceria basada en el Pontiac Tempest</descripcion>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/64_Pontiac_GTO_%289121534394%29.jpg">Coupe 1964</detalleChasis>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/1964_Pontiac_GTO_%289130478010%29.jpg">Cabriolet 1964</detalleChasis>
         <detalleMotor tipo="motor" potencia="325 HP">6.4 V8 (1964)</detalleMotor>
+		<años>1966-1967 Primera Generacion</años>
+		<descripcion>Fecelisft faros verticales</descripcion>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pontiac_GTO_1966.jpg/800px-Pontiac_GTO_1966.jpg?20070616063532">Coupe 1966</detalleChasis>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/00_2510_Pontiac_GTO.jpg/800px-00_2510_Pontiac_GTO.jpg?20220204183852">Cabriolet 1966</detalleChasis>
 		<detalleMotor tipo="motor" potencia="360 hp">6.4 V8 (1966)</detalleMotor>
       </generacion>
 	  <generacion nombre="Segunda Generacion">
-        <años>1968-1972</años>
+        <años>1968-1969 Segunda Generacion</años>
         <descripcion>Carroceria GTO con nuevo diseño de carrocería más aerodinámico, Introducción del paquete opcional .The Judge. en 1969</descripcion>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pontiac_GTO_1968_RSideFront_TBS_09Feb2014_%2814606417213%29.jpg/800px-Pontiac_GTO_1968_RSideFront_TBS_09Feb2014_%2814606417213%29.jpg?20140927024708">Pontiac GTO 1968</detalleChasis>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/d/db/1968_Pontiac_GTO_%2828170575472%29.jpg">Pontiac GTO 1968 cabriolet, Faros escondidos</detalleChasis>
         <detalleMotor tipo="motor" potencia="350 HP">3.7 V8 (1968)</detalleMotor>
 		<detalleMotor tipo="motor" potencia="360 HP">4.5 V8 (1968)</detalleMotor>
-		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/e/ed/1969_Pontiac_GTO_Judge_Hardtop.jpg">Pontiac GTO 1969 The Judge </detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/e/ed/1969_Pontiac_GTO_Judge_Hardtop.jpg">Pontiac GTO 1969 The Judge</detalleChasis>
         <detalleMotor tipo="motor" potencia="366 hp">6.6 V8 (The Judge)</detalleMotor>
+		<años>1970-1972 Segunda Generacion</años>
+		<descripcion>Actualización de diseño con parrilla frontal dividida</descripcion>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/8/80/70_Pontiac_GTO_%285992638604%29.jpg">Pontiac GTO 1970</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/c/c1/1970_Pontiac_GTO_6.6_Rear.jpg">Pontiac GTO 1970 HardTop</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/d/d1/Pontiac_GTO_%284823656423%29.jpg">Pontiac GTO 1970 cabriolet</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/a/a8/1970_Pontiac_GTO_The_Judge_%2827220110376%29.jpg">Pontiac GTO 1970 The Judge</detalleChasis>
+		<detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1970</detalleMotor>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/6/6a/1972_Pontiac_GTO_-_Flickr_-_dave_7.jpg">Pontiac GTO 1972</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/b/bd/1972_Pontiac_Le_Mans_Hardtop_Coupe_with_GTO_option.jpg">Pontiac GTO 1972 HardTop</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/1/17/1972_Pontiac_GTO_Convertible_%2828292369601%29.jpg">Pontiac GTO 1972 cabriolet</detalleChasis>
+		<detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1972</detalleMotor>
       </generacion>
-      <generacion nombre="4th Generation">
-        <años>2008 - 2009</años>
-        <descripcion>Otra descripción para la cuarta generación</descripcion>
-        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupe">Coupe</detalleChasis>
-        <detalleMotor tipo="motor" potencia="450 hp">6.2 V8</detalleMotor>
+	  <generacion nombre="Tercera Generacion">
+        <años>1973-1973 Tercera Generacion</años>
+        <descripcion>Reduccion en la potencia debido a las regulaciones de emisiones.</descripcion>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Front_Right_%28St._Ignace_2023%29.jpg/800px-1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Front_Right_%28St._Ignace_2023%29.jpg?20240218220122">Pontiac GTO 1973</detalleChasis>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Rear_Right_%28St._Ignace_2023%29.jpg/800px-1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Rear_Right_%28St._Ignace_2023%29.jpg?20240218220122">Pontiac GTO 1973 </detalleChasis>
+        <detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1973</detalleMotor>
       </generacion>
+	  <generacion nombre="Cuarta Generacion">
+        <años>1974-1974 Cuarta Generacion</años>
+        <descripcion>Carroceria basada en Pontiac Ventura con opcion GTO.</descripcion>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_1of6.jpg/800px-1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_1of6.jpg?20210318225907">Pontiac GTO 1974</detalleChasis>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_3of6.jpg/800px-1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_3of6.jpg?20210318225902">Pontiac GTO 1974</detalleChasis>
+        <detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1973</detalleMotor>
+      </generacion>
+      <generacion nombre="Quinta Generacion">
+        <años>2004-2006</años>
+        <descripcion>Basado en el Holden Monaro</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2006_Pontiac_GTO%2C_front_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg/800px-2006_Pontiac_GTO%2C_front_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg?20230718150045">Pontiac GTO 2006</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2006_Pontiac_GTO%2C_rear_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg/800px-2006_Pontiac_GTO%2C_rear_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg?20230718150045">Pontiac GTO 2006</detalleChasis>
+        <detalleMotor tipo="motor" potencia="xx hp">V8 de 5.7 litros (LS1)</detalleMotor>
+        <detalleMotor tipo="motor" potencia="400 hp">V8 de 6.0 litros (LS2)</detalleMotor>
+	 </generacion>
     </modelo>
   </marca>
   <marca nombre="Ford">
