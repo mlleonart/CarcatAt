@@ -4,14 +4,10 @@
       <generacion nombre="3rd Generation">
         <años>2004 - 2006</años>
         <descripcion>Este modelo estaba basado en el Monaro</descripcion>
-        <detalleChasis tipo="chasis">Coupe</detalleChasis>
-        <detalleChasis tipo="foto">www.ejemplo.com/fotoCoupe</detalleChasis>
-        <detalleChasis tipo="chasis">Cabriolet</detalleChasis>
-        <detalleChasis tipo="foto">www.ejemplo.com/fotoCabrio</detalleChasis>
-        <detalleMotor tipo="motor">5.7 V8</detalleMotor>
-        <detalleMotor tipo="potencia">354 hp</detalleMotor>
-        <detalleMotor tipo="motor">6.0 V8</detalleMotor>
-        <detalleMotor tipo="potencia">400 hp</detalleMotor>
+        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupe">Coupe</detalleChasis>
+        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCabrio">Cabriolet</detalleChasis>
+        <detalleMotor tipo="motor" potencia="354 hp">5.7 V8</detalleMotor>
+        <detalleMotor tipo="motor" potencia="400 hp">6.0 V8</detalleMotor>
       </generacion>
     </modelo>
   </marca>
@@ -20,12 +16,9 @@
       <generacion nombre="Sixth Generation">
         <años>2015 - Presente</años>
         <descripcion>El Mustang de sexta generación es una versión completamente nueva para 2015 que presenta un estilo más moderno y tecnología avanzada.</descripcion>
-        <detalleChasis tipo="chasis">Coupé / Convertible</detalleChasis>
-        <detalleChasis tipo="foto">www.ejemplo.com/fotoCoupConvertible</detalleChasis>
-        <detalleMotor tipo="motor">2.3 EcoBoost</detalleMotor>
-        <detalleMotor tipo="potencia">310 hp</detalleMotor>
-        <detalleMotor tipo="motor">5.0 V8</detalleMotor>
-        <detalleMotor tipo="potencia">435 hp</detalleMotor>
+        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupConvertible">Coupé / Convertible</detalleChasis>
+        <detalleMotor tipo="motor" potencia="310 hp">2.3 EcoBoost</detalleMotor>
+        <detalleMotor tipo="motor" potencia="435 hp">5.0 V8</detalleMotor>
       </generacion>
     </modelo>
   </marca>
