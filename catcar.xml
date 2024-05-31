@@ -28,44 +28,120 @@
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/c/c1/1970_Pontiac_GTO_6.6_Rear.jpg">Pontiac GTO 1970 HardTop</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/d/d1/Pontiac_GTO_%284823656423%29.jpg">Pontiac GTO 1970 cabriolet</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/a/a8/1970_Pontiac_GTO_The_Judge_%2827220110376%29.jpg">Pontiac GTO 1970 The Judge</detalleChasis>
-		<detalleMotor tipo="motor" potencia="360 hp">6.6 V8 1970</detalleMotor>
+		<detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1970</detalleMotor>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/6/6a/1972_Pontiac_GTO_-_Flickr_-_dave_7.jpg">Pontiac GTO 1972</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/b/bd/1972_Pontiac_Le_Mans_Hardtop_Coupe_with_GTO_option.jpg">Pontiac GTO 1972 HardTop</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/1/17/1972_Pontiac_GTO_Convertible_%2828292369601%29.jpg">Pontiac GTO 1972 cabriolet</detalleChasis>
-		<detalleMotor tipo="motor" potencia="360 hp">7.5 V8 1972</detalleMotor>
+		<detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1972</detalleMotor>
       </generacion>
 	  <generacion nombre="Tercera Generacion">
         <años>1973-1973 Tercera Generacion</años>
         <descripcion>Reduccion en la potencia debido a las regulaciones de emisiones.</descripcion>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Front_Right_%28St._Ignace_2023%29.jpg/800px-1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Front_Right_%28St._Ignace_2023%29.jpg?20240218220122">Pontiac GTO 1973</detalleChasis>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Rear_Right_%28St._Ignace_2023%29.jpg/800px-1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Rear_Right_%28St._Ignace_2023%29.jpg?20240218220122">Pontiac GTO 1973 </detalleChasis>
-        <detalleMotor tipo="motor" potencia="230 hp">6.6 V8 1973</detalleMotor>
+        <detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1973</detalleMotor>
       </generacion>
 	  <generacion nombre="Cuarta Generacion">
         <años>1974-1974 Cuarta Generacion</años>
         <descripcion>Carroceria basada en Pontiac Ventura con opcion GTO.</descripcion>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_1of6.jpg/800px-1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_1of6.jpg?20210318225907">Pontiac GTO 1974</detalleChasis>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_3of6.jpg/800px-1974_Pontiac_Ventura_with_GTO_option_-_factory_original_condition_3of6.jpg?20210318225902">Pontiac GTO 1974</detalleChasis>
-        <detalleMotor tipo="motor" potencia="200 hp">5.7 V8 1973</detalleMotor>
+        <detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1973</detalleMotor>
       </generacion>
       <generacion nombre="Quinta Generacion">
         <años>2004-2006</años>
         <descripcion>Basado en el Holden Monaro</descripcion>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2006_Pontiac_GTO%2C_front_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg/800px-2006_Pontiac_GTO%2C_front_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg?20230718150045">Pontiac GTO 2006</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2006_Pontiac_GTO%2C_rear_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg/800px-2006_Pontiac_GTO%2C_rear_left_%28Cruisin%27_the_River_Lowellville_Car_Cruise%2C_July_17%2C_2023%29.jpg?20230718150045">Pontiac GTO 2006</detalleChasis>
-        <detalleMotor tipo="motor" potencia="350 hp">V8 de 5.7 litros (LS1)</detalleMotor>
+        <detalleMotor tipo="motor" potencia="xx hp">V8 de 5.7 litros (LS1)</detalleMotor>
         <detalleMotor tipo="motor" potencia="400 hp">V8 de 6.0 litros (LS2)</detalleMotor>
 	 </generacion>
     </modelo>
   </marca>
-  <marca nombre="Ford">
-    <modelo nombre="Mustang">
-      <generacion nombre="not yet">
-        <años>not yet</años>
-        <descripcion>not yet.</descripcion>
-        <detalleChasis tipo="chasis" foto="www.ejemplo.com/fotoCoupConvertible">not yet</detalleChasis>
-        <detalleMotor tipo="motor" potencia="not yet">not yet</detalleMotor>
-        <detalleMotor tipo="motor" potencia="not yet">not yet</detalleMotor>
+  <marca nombre="Porsche">
+	<modelo nombre="911">
+      <generacion nombre="356">
+        <años>1948-1966</años>
+        <descripcion>Predecesor del Porsche 911.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Porsche_356_1962.jpg/1200px-Porsche_356_1962.jpg?20050624223312">Coupe fastback 1962</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Porsche-356-B-Super90-cab-av.jpg/1200px-Porsche-356-B-Super90-cab-av.jpg?20100215212824">Porsche 356 B Super 90 Roadster Cabrio</detalleChasis>
+        <detalleMotor tipo="motor" potencia="90 hp">1600 Super</detalleMotor>
+      </generacion>
+      <generacion nombre="901">
+        <años>1964</años>
+        <descripcion>Prototipo denominado «Porsche 901», una demanda de Peugeot llevó a que el nombre comercial se cambiara a 911</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/9/9d/1964_Porsche_901_rear.jpg?20110704043135">1964 Porsche 901</detalleChasis>
+        <detalleMotor tipo="motor" potencia="90 hp">6 Cilindros Boxer 2.0</detalleMotor>
+      </generacion>
+      <generacion nombre="911">
+        <años>1965-1974 Primera Generacion</años>
+        <descripcion>Diseño distintivo de carrocería fastback y motor trasero de seis cilindros, no solo ofrecia un rendimiento excepcional, también se destacaba entre la multitud.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/1972_Porsche_911_2.4_S%2C_front_left%2C_05-18-2024.jpg/1200px-1972_Porsche_911_2.4_S%2C_front_left%2C_05-18-2024.jpg?20240518110247">1972 Porsche 911 Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/1972_Porsche_911_2.4_S%2C_rear_right%2C_05-18-2024.jpg/1200px-1972_Porsche_911_2.4_S%2C_rear_right%2C_05-18-2024.jpg?20240518110248">1972 Porsche 911 Coupe fastback</detalleChasis>
+        <detalleMotor tipo="motor" potencia="90 hp">6 Cilindros Boxer 2.0</detalleMotor>
+		<detalleMotor tipo="motor" potencia="160 hp">6 Cilindros Boxer 2.0 911s</detalleMotor>
+      </generacion>
+      <generacion nombre="911 930">
+        <años>1973-1989 (930) G Series</años>
+        <descripcion>Carrocería mucho más musculosa y agresiva sobre todo en la cola, por introducción de la tecnología turboalimentada en la línea del Porsche 911. Nuevo turbo look llamdo cola de ballena. Desde entonces Porsche siempre ha puesto turbo a todos sus coches.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/6/67/Porsche_911_1974_Turbo_Nr.1_LSideFront_PorscheM_9June2013_%2814989610066%29.jpg?20140927022041">Porsche 911 1974 Turbo Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/5/5b/Porsche_911_1974_Turbo_Nr.1_LSideRear_PorscheM_9June2013_%2814989657166%29.jpg?20140927022042">Porsche 911 1974 Turbo Coupe fastback</detalleChasis>
+        <detalleMotor tipo="motor" potencia="240 hp">6 Cilindros Boxer 3.0 Turbo</detalleMotor>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/1974_Porsche_911_Carrera_RS_3.0_Replica.jpg/1200px-1974_Porsche_911_Carrera_RS_3.0_Replica.jpg?20220727102148">1974 Porsche 911 Carrera RS Coupe fastback</detalleChasis>
+      </generacion>
+      <generacion nombre="911 964">
+        <años>1989 a 1994 (964)</años>
+        <descripcion>Parecido estético con su antecesor pero cambios significativos en la mecanica. Nueva suspensión, llegada todavía NO masiva de la electrónica, ABS, airbag, dirección asistida y cambios automáticos. Un coche más seguro y más civilizado. Se presentó la opción de tracción en las cuatro ruedas, destacada en el modelo Carrera 4.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Porsche_911_%28964%29_%283786828860%29.jpg/1193px-Porsche_911_%28964%29_%283786828860%29.jpg?20150130111521">Porsche 911 964 Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/3/3f/BAS_24%2C_Brussels_%28P1170283-RR%29.jpg">Porsche 911 964 Carrera 4 Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Porsche_911_Carrera_Targa_07-27-2019.jpg/1200px-Porsche_911_Carrera_Targa_07-27-2019.jpg?20190823171324">Porsche 911 Carrera Targa</detalleChasis>
+        <detalleMotor tipo="motor" potencia="320 hp">6 Cilindros Boxer 3.3</detalleMotor>
+		<detalleMotor tipo="motor" potencia="360 hp">6 Cilindros Boxer 3.6</detalleMotor>
+      </generacion>
+      <generacion nombre="911 993">
+        <años>1994 a 1998 (993)</años>
+        <descripcion>Ultimo heredero legítimo del antiguo 911 por ser ultima generación que viene con motor refrigerado por aire. Carrocería más redondeada, marcando un cambio estético notable y evocador. Se presentó la variante GT2, consolidando la reputación del Porsche 911 como un referente en el mundo de los deportivos.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Porsche_911_993_%2839490391880%29.jpg/1200px-Porsche_911_993_%2839490391880%29.jpg?20181105101642">Porsche 911 993 Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1997_Porsche_911_Carrera_%28993%29_convertible_%282011-11-18%29_01.jpg/1200px-1997_Porsche_911_Carrera_%28993%29_convertible_%282011-11-18%29_01.jpg?20120527033333">Porsche 911 Carrera 993 convertible</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/1997_Porsche_911_Carrera_%28993%29_convertible_%282011-11-18%29_02.jpg/1200px-1997_Porsche_911_Carrera_%28993%29_convertible_%282011-11-18%29_02.jpg?20120527035941">Porsche 911 Carrera 993 convertible</detalleChasis>
+        <detalleMotor tipo="motor" potencia="272 hp">6 Cilindros Boxer 3.6</detalleMotor>
+		<detalleMotor tipo="motor" potencia="285 hp">6 Cilindros Boxer 3.8</detalleMotor>
+		<detalleMotor tipo="motor" potencia="430 hp">6 Cilindros Boxer 3.6 twin-turbo</detalleMotor>
+      </generacion>
+	  <generacion nombre="911 996">
+        <años>1998 a 2004 (996)</años>
+        <descripcion>Marca el cambio a motores refrigerados por agua, la carrocería experimentó una evolución notable, ahora más moderna y polémica con los faros inspirados en el Boxster. Se presentó el Porsche 911 GT3.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Porsche_911_%28996%29_-_Flickr_-_Alexandre_Pr%C3%A9vot.jpg/1200px-Porsche_911_%28996%29_-_Flickr_-_Alexandre_Pr%C3%A9vot.jpg?20131124134811">Porsche 911 (996) Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2005_Porsche_911_%28996%29_Carrera_4S.jpg/1200px-2005_Porsche_911_%28996%29_Carrera_4S.jpg?20220726164722">Porsche 911 (996) Carrera 4S</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_911_996_Convertible_FOS21.jpg/1200px-Porsche_911_996_Convertible_FOS21.jpg?20220728083034">Porsche 911 996 Convertible</detalleChasis>
+        <detalleMotor tipo="motor" potencia="300  hp">6 Cilindros Boxer 3.4</detalleMotor>
+		<detalleMotor tipo="motor" potencia="320  hp">6 Cilindros Boxer 3.6</detalleMotor>
+      </generacion>
+	  <generacion nombre="911 997">
+        <años>2004 a 2012 (997)</años>
+        <descripcion>Retorno a un diseño más clásico rindiendo homenaje a sus raíces icónicas.Ahora si, la  electrónica esta por todos los rincones del coche. Se presenta el Porsche 911 GT2 RS en el universo de los superdeportivos y se planta de igual a igual con Ferrari.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/PORSCHE_911_%28997%29_China.jpg/1200px-PORSCHE_911_%28997%29_China.jpg?20230219023540">Porsche 911 (997) Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2011_Porsche_911_%28997.2%29_Carrera_4S_Rear.jpg/1200px-2011_Porsche_911_%28997.2%29_Carrera_4S_Rear.jpg?20220221191857">2011 Porsche 911 (997) Carrera 4S</detalleChasis>
+        <detalleMotor tipo="motor" potencia="345 hp">6 Cilindros Boxer 3.6</detalleMotor>
+		<detalleMotor tipo="motor" potencia="385 hp">6 Cilindros Boxer 3.8</detalleMotor>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Porsche_GT2_RS%2C_IAA_2017%2C_Frankfurt_%281Y7A2769%29.jpg/1200px-Porsche_GT2_RS%2C_IAA_2017%2C_Frankfurt_%281Y7A2769%29.jpg?20170919210028">Porsche GT2 RS</detalleChasis>
+		<detalleMotor tipo="motor" potencia="620 hp">6 Cilindros Boxer 4.0 GT2 RS</detalleMotor>
+      </generacion>
+	  <generacion nombre="911 991">
+        <años>2011 a 2019 (991)</años>
+        <descripcion>Aspecto contemporáneo y elegante. Como una constante, la incorporación de tecnologías más modernas, reflejan el compromiso invariable de la marca con la mejora continua. Re-aparece la versión Targa. Se presentaron modelos híbridos enchufables, siendo la variante 911 Carrera S E-Hybrid la fusión perfecta entre el rendimiento característico del 911 y la eficiencia de la propulsión eléctrica.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Porsche_911_991_Portland_Street_St._Johnsbury_VT_July_2016.jpg/1200px-Porsche_911_991_Portland_Street_St._Johnsbury_VT_July_2016.jpg?20160730100726">Porsche 911 991 Coupe fastback</detalleChasis>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/PORSCHE_911_%28991%29_CONVERTIBLE_China.jpg/1200px-PORSCHE_911_%28991%29_CONVERTIBLE_China.jpg?20220907041132">Porsche 911 991 Convertible</detalleChasis>
+        <detalleMotor tipo="motor" potencia="350 hp">6 Cilindros Boxer 3.4</detalleMotor>
+		<detalleMotor tipo="motor" potencia="400 hp">6 Cilindros Boxer 3.8</detalleMotor>
+		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Porsche_911_%28991.1%29_GT3_RS.jpg/1199px-Porsche_911_%28991.1%29_GT3_RS.jpg?20220715181158">Porsche 911 (991) GT3 RS</detalleChasis>
+      </generacion>
+	  <generacion nombre="911 992">
+        <años>Desde 2019 (992)</años>
+        <descripcion>Diseño más evolutivo que revolucionario. Se nota es el uso extensivo de aluminio en la carroceria y un mayor enfoque en la tecnología y la conectividad.</descripcion>
+        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/7/7a/PORSCHE_911_%28992%29_China_%283%29.jpg">Porsche 911 992 Coupe fastback</detalleChasis>
+        <detalleMotor tipo="motor" potencia="534 hp">6 Cilindros Boxer 3.6</detalleMotor>
+		<detalleMotor tipo="motor" potencia="542 hp">6 Cilindros Boxer 3.7</detalleMotor>
       </generacion>
     </modelo>
   </marca>
