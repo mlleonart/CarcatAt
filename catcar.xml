@@ -28,7 +28,7 @@
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/c/c1/1970_Pontiac_GTO_6.6_Rear.jpg">Pontiac GTO 1970 HardTop</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/d/d1/Pontiac_GTO_%284823656423%29.jpg">Pontiac GTO 1970 cabriolet</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/a/a8/1970_Pontiac_GTO_The_Judge_%2827220110376%29.jpg">Pontiac GTO 1970 The Judge</detalleChasis>
-		<detalleMotor tipo="motor" potencia="360 hp">7,5 V8 1970</detalleMotor>
+		<detalleMotor tipo="motor" potencia="300 hp">7,5 V8 1970</detalleMotor>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/6/6a/1972_Pontiac_GTO_-_Flickr_-_dave_7.jpg">Pontiac GTO 1972</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/b/bd/1972_Pontiac_Le_Mans_Hardtop_Coupe_with_GTO_option.jpg">Pontiac GTO 1972 HardTop</detalleChasis>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/1/17/1972_Pontiac_GTO_Convertible_%2828292369601%29.jpg">Pontiac GTO 1972 cabriolet</detalleChasis>
@@ -39,7 +39,7 @@
         <descripcion>Reduccion en la potencia debido a las regulaciones de emisiones.</descripcion>
 		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Front_Right_%28St._Ignace_2023%29.jpg/800px-1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Front_Right_%28St._Ignace_2023%29.jpg?20240218220122">Pontiac GTO 1973</detalleChasis>
         <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Rear_Right_%28St._Ignace_2023%29.jpg/800px-1973_Pontiac_LeMans_2-Door_Colonnade_Hardtop_with_GTO_Package_in_Ascot_Silver%2C_Rear_Right_%28St._Ignace_2023%29.jpg?20240218220122">Pontiac GTO 1973 </detalleChasis>
-        <detalleMotor tipo="motor" potencia="xxx hp">x.x V8 1973</detalleMotor>
+        <detalleMotor tipo="motor" potencia="230 hp">6.6 V8 1973</detalleMotor>
       </generacion>
 	  <generacion nombre="Cuarta Generacion">
         <años>1974-1974 Cuarta Generacion</años>
