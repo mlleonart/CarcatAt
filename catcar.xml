@@ -1,17 +1,17 @@
 <catalogo>
   <marca nombre="Pontiac">
     <modelo nombre="GTO">
-	  <generacion nombre="Primera Generacion">
-        <años>1964-1965 Primera Generacion</años>
-        <descripcion>Carroceria basada en el Pontiac Tempest</descripcion>
-        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/64_Pontiac_GTO_%289121534394%29.jpg">Coupe 1964</detalleChasis>
-        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/1964_Pontiac_GTO_%289130478010%29.jpg">Cabriolet 1964</detalleChasis>
-        <detalleMotor tipo="motor" potencia="325 HP">6.4 V8 (1964)</detalleMotor>
+	<generacion nombre="1964-1968 Primera Generacion">
+        	<años>1964-1965 Primera Generacion</años>
+        		<descripcion>Carroceria basada en el Pontiac Tempest</descripcion>
+        		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/64_Pontiac_GTO_%289121534394%29.jpg">Coupe 1964</detalleChasis>
+        		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/0/02/1964_Pontiac_GTO_%289130478010%29.jpg">Cabriolet 1964</detalleChasis>
+        		<detalleMotor tipo="motor" potencia="325 HP">6.4 V8 (1964)</detalleMotor>
 		<años>1966-1967 Primera Generacion</años>
 		<descripcion>Fecelisft faros verticales</descripcion>
-		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pontiac_GTO_1966.jpg/800px-Pontiac_GTO_1966.jpg?20070616063532">Coupe 1966</detalleChasis>
-        <detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/00_2510_Pontiac_GTO.jpg/800px-00_2510_Pontiac_GTO.jpg?20220204183852">Cabriolet 1966</detalleChasis>
-		<detalleMotor tipo="motor" potencia="360 hp">6.4 V8 (1966)</detalleMotor>
+			<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pontiac_GTO_1966.jpg/800px-Pontiac_GTO_1966.jpg?20070616063532">Coupe 1966</detalleChasis>
+        		<detalleChasis tipo="chasis" foto="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/00_2510_Pontiac_GTO.jpg/800px-00_2510_Pontiac_GTO.jpg?20220204183852">Cabriolet 1966</detalleChasis>
+			<detalleMotor tipo="motor" potencia="360 hp">6.4 V8 (1966)</detalleMotor>
       </generacion>
 	  <generacion nombre="Segunda Generacion">
         <años>1968-1969 Segunda Generacion</años>
